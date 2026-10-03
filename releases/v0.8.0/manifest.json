@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "product": "racemetry",
+  "version": "0.8.0",
+  "build": 4,
+  "hardware": [
+    "tbeam-supreme-v3-m10s-sx1262-868"
+  ],
+  "minimum_firmware": "0.7.0",
+  "size": 1814048,
+  "sha256": "72ac2638b559840d7bb4027c801006c12310e31705ffed37e67f4957126bdbdd",
+  "release_channel": "stable",
+  "config_schema": 1,
+  "rollback_protocol": 1,
+  "mandatory": false,
+  "rollout_percentage": 100,
+  "release_notes": "Online update discovery, verified download and phone caching in the device web app.",
+  "url": "https://raw.githubusercontent.com/f-depalma/Racemetry-firmware/v0.8.0/releases/v0.8.0/racemetry-v0.8.0.bin",
+  "eligible_device_ids": [],
+  "signature": "MEUCIQCn2jU14nX9TAnJsnNjgp2uXkzPe1650c8CGGqlrP99VAIgKyboZAajGwl0/TmNJpAy6q4CPmRIwKc7tV9uV9xLK7A="
+}
