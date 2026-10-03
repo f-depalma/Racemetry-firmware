@@ -2,6 +2,9 @@
   "schema_version": 1,
   "releases": [
     {
+      "manifest_url": "https://raw.githubusercontent.com/f-depalma/Racemetry-firmware/v0.8.2/releases/v0.8.2/manifest.json"
+    },
+    {
       "manifest_url": "https://raw.githubusercontent.com/f-depalma/Racemetry-firmware/v0.8.1/releases/v0.8.1/manifest.json"
     }
   ]
