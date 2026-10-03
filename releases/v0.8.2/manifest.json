@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "product": "racemetry",
+  "version": "0.8.2",
+  "build": 6,
+  "hardware": [
+    "tbeam-supreme-v3-m10s-sx1262-868"
+  ],
+  "minimum_firmware": "0.8.1",
+  "size": 1814352,
+  "sha256": "133698115116b730fecacf973d31212987cdc731c798c071059296f6e68b525c",
+  "release_channel": "stable",
+  "config_schema": 1,
+  "rollback_protocol": 1,
+  "mandatory": false,
+  "rollout_percentage": 100,
+  "release_notes": "Signed qualification patch for online OTA and rollback from the corrected v0.8.1 USB bootstrap.",
+  "url": "https://raw.githubusercontent.com/f-depalma/Racemetry-firmware/v0.8.2/releases/v0.8.2/racemetry-v0.8.2.bin",
+  "eligible_device_ids": [],
+  "signature": "MEYCIQCsXte/SSRDQmMOZWW8rWe6EwoFEBGBrCIAexsX2uQwKAIhANXyJ2gImr7JxLanEAjy/qScxgJcPPBJUyYJNyRmbGhd"
+}
