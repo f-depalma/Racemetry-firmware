@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "product": "racemetry",
+  "version": "0.8.1",
+  "build": 5,
+  "hardware": [
+    "tbeam-supreme-v3-m10s-sx1262-868"
+  ],
+  "minimum_firmware": "0.7.0",
+  "size": 1814352,
+  "sha256": "51c88ee14d19dd6b24e30819b0ea8177e0ea870980758ed93ebc7762b33f122b",
+  "release_channel": "stable",
+  "config_schema": 1,
+  "rollback_protocol": 1,
+  "mandatory": false,
+  "rollout_percentage": 100,
+  "release_notes": "Fix native browser fetch context and clarify online download integrity and errors.",
+  "url": "https://raw.githubusercontent.com/f-depalma/Racemetry-firmware/v0.8.1/releases/v0.8.1/racemetry-v0.8.1.bin",
+  "eligible_device_ids": [],
+  "signature": "MEUCIQDj5JYSCwU/hr38v/HYdqM2Z+sBERPhf2mW6/finmIMTAIgdP3/0mUxPVOQTa/3f5UtyAaZPL3RKVL3ts0QDeueDmk="
+}
