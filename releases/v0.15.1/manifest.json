@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "product": "racemetry",
+  "version": "0.15.1",
+  "build": 20,
+  "hardware": [
+    "tbeam-supreme-v3-m10s-sx1262-868"
+  ],
+  "minimum_firmware": "0.15.0",
+  "size": 1866512,
+  "sha256": "eff1d3324c75410683bccc4c2e62b7f38b36936ed6fdfe15371101fbe5cbd7a1",
+  "release_channel": "stable",
+  "config_schema": 1,
+  "rollback_protocol": 1,
+  "mandatory": false,
+  "rollout_percentage": 100,
+  "release_notes": "Ride details show X acceleration and fixed one-second mobile telemetry; GPS, speed and relative X lean share the cursor.",
+  "url": "https://raw.githubusercontent.com/f-depalma/Racemetry-firmware/v0.15.1/releases/v0.15.1/racemetry-v0.15.1.bin",
+  "eligible_device_ids": [],
+  "signature": "MEUCIHWVS4Md4g05DdOoks90XBzxWo85ZxcpjhQSwJPf3DRPAiEAwY/g95dQrreZ308AVF5DiKod6owUvNF/iqILuSDwtao="
+}
