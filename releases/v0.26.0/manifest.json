@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "product": "racemetry",
+  "version": "0.26.0",
+  "build": 60,
+  "hardware": [
+    "tbeam-supreme-v3-m10s-sx1262-868"
+  ],
+  "minimum_firmware": "0.15.0",
+  "size": 2078992,
+  "sha256": "9fc859966555727cb88993b518cbe70192b16a231fc46eb0b822104bf7ad9e84",
+  "release_channel": "stable",
+  "config_schema": 1,
+  "rollback_protocol": 1,
+  "mandatory": false,
+  "rollout_percentage": 100,
+  "release_notes": "History: Sync cloud button per session uploads originals and laps to the private GitHub data repository for analysis with Claude, from the phone or the desktop app.",
+  "url": "https://raw.githubusercontent.com/f-depalma/Racemetry-firmware/v0.26.0/releases/v0.26.0/racemetry-v0.26.0.bin",
+  "eligible_device_ids": [],
+  "signature": "MEYCIQCRrfTaJ/z5KiXq2obQs1/Eczt8ZBWVcD+napqDePHS1wIhALCYfVp0cYyJweCr7KemtqJ7p6pgZZG1kSuDkC/iAGgw"
+}
