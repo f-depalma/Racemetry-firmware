@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "product": "racemetry",
+  "version": "0.26.1",
+  "build": 61,
+  "hardware": [
+    "tbeam-supreme-v3-m10s-sx1262-868"
+  ],
+  "minimum_firmware": "0.15.0",
+  "size": 2080704,
+  "sha256": "3c423fbfe39768226407733cd4d86a61f556b0d6d3e5dd952839ded7a11d1ef4",
+  "release_channel": "stable",
+  "config_schema": 1,
+  "rollback_protocol": 1,
+  "mandatory": false,
+  "rollout_percentage": 100,
+  "release_notes": "History shows the recording file size next to the name; Sync cloud shows read progress and sends the original file faster in 4 KB blocks.",
+  "url": "https://raw.githubusercontent.com/f-depalma/Racemetry-firmware/v0.26.1/releases/v0.26.1/racemetry-v0.26.1.bin",
+  "eligible_device_ids": [],
+  "signature": "MEQCIC0RerUBOw7/acUyy0nlzvjeO6z6zOvQyvy2PpD2Bp13AiBio7QMTPzHsVujVMMzw7YV/Q1lCPgw7PJsoY6acuvZzg=="
+}
