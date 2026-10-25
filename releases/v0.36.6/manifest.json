@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "product": "racemetry",
+  "version": "0.36.6",
+  "build": 90,
+  "hardware": [
+    "tbeam-supreme-v3-m10s-sx1262-868"
+  ],
+  "minimum_firmware": "0.15.0",
+  "size": 2073808,
+  "sha256": "1fd6e1fbe6041b3c6c6eb57fd9b75517809be385f7b117b50bb5c3b0e6286751",
+  "release_channel": "stable",
+  "config_schema": 1,
+  "rollback_protocol": 1,
+  "mandatory": false,
+  "rollout_percentage": 100,
+  "release_notes": "The IMU recovers by itself when its FIFO stays stuck (full sensor reset after 1 s without samples); the gap is marked in the recording. Lean angle stays corrected while riding. Charts are recomputed on first open.",
+  "url": "https://raw.githubusercontent.com/f-depalma/Racemetry-firmware/v0.36.6/releases/v0.36.6/racemetry-v0.36.6.bin",
+  "eligible_device_ids": [],
+  "signature": "MEUCIQCTHhWB4bCvpUc43e5amcPrWbNHax8HBHVvlukBebwYIQIgKZGR+dbHerkbfa2oo7Qw7hDmLEgI1roZPuJeq5raiHA="
+}
